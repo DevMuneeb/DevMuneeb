@@ -13,12 +13,16 @@ My work spans SaaS platforms, e-commerce operations, customer support automation
 - **AI agents and workflows:** LLM applications, retrieval-augmented generation, and automation using LangChain and LangGraph.
 - **Data and operations tools:** ETL pipelines, marketplace integrations, and reporting systems.
 
+
 ## Selected work
 
-- Built marketplace customer support automation using Node.js, RAG, REST APIs, and AWS ECS.
-- Developed a natural-language “Chat with Data” system that turns questions into SQL queries and formatted reports.
-- Created data workflows connecting marketplace data with centralized reporting and Power BI dashboards.
-- Built SaaS workflows connecting voice and SMS services with scheduling and customer management.
+- **AI-powered marketplace operations platform:** Built a scalable system using AI agents to manage and automate operational workflows across Amazon, Shopify, Mercado Libre, and Walmart, connecting marketplace integrations, business data, and backend services.
+
+- **AI visibility & GEO analytics platform:** Built a tracker that measures brand and product visibility in LLM-generated responses, identifies gaps, and provides actionable content recommendations to improve SEO and generative engine optimization (GEO).
+
+- **Chat with Data:** Developed a natural-language analytics system that translates business questions into SQL queries and presents results as reports and presentations.
+
+- **Multi-tenant SaaS platform:** Built customer communication and booking workflows integrating voice, SMS, and scheduling, with tenant isolation, authentication, and role-based access.
 
 ## Core technologies
 
