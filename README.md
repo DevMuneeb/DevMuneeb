@@ -30,7 +30,7 @@ My work spans SaaS platforms, e-commerce operations, customer support automation
 | --- | --- |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS |
 | Backend | Node.js, NestJS, Express, Python, FastAPI |
-| AI & Automation | OpenAI API, LangChain, LangGraph, RAG, n8n |
+| AI & Automation | OpenAI API, LangChain, LangGraph, RAG |
 | Data | PostgreSQL, Prisma, MongoDB, Redis, Supabase |
 | Infrastructure | AWS, Docker, Linux, CI/CD |
 
